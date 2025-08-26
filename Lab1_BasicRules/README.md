@@ -37,7 +37,7 @@ ssh ryorgason@172.20.200.1
 ## Screenshots
 
 ### Port Forwarding Rule
-![Port Forwarding Rule](screenshots/mguard_lab1_port_forward.png)
+![Port Forwarding Rule](screenshots/mguard_lab1_port_forward_rule.png)
 
 ### Ping Test
 ![Ping Test](screenshots/mguard_lab1_ping_test.png)
