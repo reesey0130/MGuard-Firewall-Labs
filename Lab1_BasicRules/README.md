@@ -33,3 +33,14 @@ ping 192.168.1.101
 ssh ryorgason@172.20.200.1
 '''
 -> Successful
+
+## Screenshots
+
+### Port Forwarding rule
+![Port Forwarding Rule](Lab1_BasicRules/mGuard Lab1 Port Forward rule.png)
+
+### Ping Test
+![Ping Test](mGuard Lab1 Ping Test.png)
+
+### SSH Test
+![SSH Test](mGuard Lab1 SSH Test)
